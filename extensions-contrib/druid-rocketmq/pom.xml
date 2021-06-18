@@ -32,7 +32,7 @@
   <artifactId>druid-rocketmq</artifactId>
 
   <properties>
-    <rocketmq.version>3.2.6</rocketmq.version>
+    <rocketmq.version>3.4.9</rocketmq.version>
   </properties>
 
   <dependencies>
