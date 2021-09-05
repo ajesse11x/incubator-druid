@@ -19,7 +19,7 @@
   "dependencies": {
     "@blueprintjs/core": "^3.12.0",
     "@types/hjson": "^2.4.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.3",
     "classnames": "^2.2.6",
     "d3-array": "^2.0.3",
     "druid-console": "^0.0.2",
